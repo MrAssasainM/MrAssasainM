@@ -1,177 +1,283 @@
-<!-- Animated profile header -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:1d4ed8,100:06b6d4&height=220&section=header&text=Muhammad%20Yousaf&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=AI-Focused%20Developer%20%7C%20Software%20Builder%20%7C%20Automation%20Enthusiast&descSize=15&descAlignY=58&animation=twinkling" alt="Animated banner: Muhammad Yousaf" />
+<!-- =============== ANIMATED HEADER =============== -->
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=760&height=55&lines=Building+useful+AI-powered+software;Exploring+local-first+AI+and+LLM+systems;Learning+agent+engineering+by+building;Turning+ideas+into+working+prototypes" alt="Animated typing introduction" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:0891b2&height=230&section=header&text=Muhammad%20Yousaf&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=AI%20%7C%20SOFTWARE%20%7C%20AUTOMATION&descAlignY=58&descSize=17" width="100%" alt="Muhammad Yousaf animated header"/>
+</p>
+
+<!-- =============== TYPING ANIMATION =============== -->
+
+<p align="center">
+  <a href="https://github.com/MrAssasainM">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&lines=AI-Focused+Developer+%F0%9F%A4%96;Building+Local-First+AI+Systems+%F0%9F%92%BB;Exploring+LLMs%2C+Agents+%26+Automation;Turning+Ideas+Into+Working+Software;Always+Learning.+Always+Building." alt="Animated typing introduction"/>
   </a>
+</p>
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=MrAssasainM&label=PROFILE%20VIEWS&color=2563eb&style=for-the-badge" alt="Profile views" />
-    <a href="https://github.com/MrAssasainM?tab=followers"><img src="https://img.shields.io/github/followers/MrAssasainM?style=for-the-badge&logo=github&label=FOLLOWERS&color=0ea5e9" alt="GitHub followers" /></a>
-    <a href="https://github.com/MrAssasainM?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-EXPLORE-7c3aed?style=for-the-badge&logo=github" alt="Explore projects" /></a>
-  </p>
-
-  <p>
-    <a href="https://github.com/MrAssasainM"><img src="https://img.shields.io/badge/GitHub-MrAssasainM-181717?style=flat&logo=github" alt="GitHub profile" /></a>
-    <img src="https://img.shields.io/badge/Focus-AI%20%26%20Automation-0ea5e9?style=flat" alt="Focus: AI and automation" />
-    <img src="https://img.shields.io/badge/Approach-Learn%20by%20Building-16a34a?style=flat" alt="Learn by building" />
-  </p>
-</div>
+<p align="center">
+  <a href="https://github.com/MrAssasainM">
+    <img src="https://img.shields.io/badge/GitHub-MrAssasainM-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=MrAssasainM&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/MrAssasainM?style=for-the-badge&color=0891b2&label=FOLLOWERS" alt="GitHub followers"/>
+</p>
 
 ---
 
-## 👨‍💻 About me
+## 👨‍💻 About Me
 
-I'm an aspiring AI-focused developer who enjoys building software, experimenting with AI systems, and turning practical ideas into prototypes. I'm especially interested in local-first AI, LLM applications, agent workflows, automation, and useful desktop and web applications.
+Hi! I'm **Muhammad Yousaf**, an AI-focused developer and software builder interested in creating useful technology.
 
-I learn by building, testing, reading documentation, and improving projects step by step. I use AI-assisted development tools as part of my workflow, while continuing to strengthen my understanding of the code and systems I build.
+I enjoy exploring how artificial intelligence can make software more capable, how intelligent agents can complete tasks, and how local-first applications can give people more control over their data.
 
-```text
-┌── CURRENT DEVELOPER PROFILE ───────────────────────────────┐
-│  Focus       : AI engineering, agents, automation          │
-│  Building    : Alfred — a local-first personal AI system   │
-│  Exploring   : LLMs, model routing, tool use, APIs          │
-│  Languages   : Python, JavaScript                           │
-│  Backend     : Node.js, Express, SQLite                     │
-│  Mindset     : Build → Test → Learn → Improve               │
-└─────────────────────────────────────────────────────────────┘
+I'm learning through building real projects, experimenting with new technologies, studying existing systems, and improving my engineering skills.
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Muhammad Yousaf"
+        self.username = "MrAssasainM"
+        self.role = "AI-Focused Developer"
+        self.interests = [
+            "Artificial Intelligence",
+            "AI Agents",
+            "Large Language Models",
+            "Software Engineering",
+            "Automation",
+            "Local-First Applications",
+        ]
+        self.current_mission = "Build useful AI-powered software"
+
+    def philosophy(self):
+        return "Build it. Test it. Understand it. Improve it."
+
+
+me = Developer()
+print(me.philosophy())
 ```
 
-## 🚀 Featured projects
+## ⚡ What I'm Working Toward
+
+- 🤖 Building **Alfred**, my flagship personal AI operating-system project.
+- 🧠 Understanding how large language models and intelligent agents work.
+- 💻 Developing practical applications using Python and JavaScript.
+- 🔗 Exploring automation, APIs, and agent tool integrations.
+- 🔒 Learning to build private, reliable, and local-first AI systems.
+- 🚀 Turning promising ideas into useful software products.
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:312e81,100:0891b2&height=3&section=header" width="75%" alt="Section divider"/>
+</p>
+
+### 🧠 AI, Agents & Intelligent Systems
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 Alfred</h3>
-      <strong>Personal AI operating system · In development</strong>
-      <p>A local-first AI assistant project exploring missions, persistent memory, specialist agents, tool use, approvals, computer awareness, and evidence-based execution.</p>
-      <p><code>Python</code> <code>SQLite</code> <code>LLMs</code> <code>Agents</code></p>
-      <sub>Flagship project. Features are being implemented and verified incrementally.</sub>
+      <h3>🤖 Alfred</h3>
+      <img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-orange?style=flat-square"/>
+      <p>My flagship project: a local-first personal AI operating-system concept designed around missions, persistent memory, specialist agents, tools, approvals, and evidence-based execution.</p>
+      <p><b>Focus:</b> AI orchestration · Memory · Agent systems · Trust and safety · Local models</p>
     </td>
     <td width="50%" valign="top">
       <h3>⚙️ OpsPilot</h3>
-      <strong>Operations platform · Prototype</strong>
-      <p>An operations-focused app concept for organizing requests and workflows, with an exploration of AI-assisted processes.</p>
-      <p><a href="https://opspilot-app.base44.app/">Open the app ↗</a></p>
+      <img src="https://img.shields.io/badge/STATUS-PROTOTYPE-blue?style=flat-square"/>
+      <p>An operations-focused application exploring structured requests, workflow management, and AI-assisted processes.</p>
+      <p><a href="https://opspilot-app.base44.app/">🌐 Explore OpsPilot</a></p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🗺️ Raah-e-Shumal</h3>
-      <strong>Travel discovery · Deployed</strong>
-      <p>A web experience focused on discovering travel destinations and experiences in northern Pakistan.</p>
-      <p><a href="https://raah-e-shumal-cinematic.vercel.app/">Visit live website ↗</a></p>
-    </td>
     <td width="50%" valign="top">
       <h3>💬 Chat Flow</h3>
-      <strong>WhatsApp workflow builder · Product concept</strong>
-      <p>A no-code-style product idea for designing automated customer conversations and business workflows. The initial use case explores travel-agency enquiries.</p>
-      <p><code>Product design</code> <code>Automation</code> <code>Chatbots</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧾 AI Hajj Umrah Rate Manager</h3>
-      <strong>Windows desktop software · Built and tested</strong>
-      <p>A desktop application for Hajj and Umrah rate-management workflows. An earlier project test report recorded 495 passing tests.</p>
-      <p><code>Desktop</code> <code>PDF workflows</code> <code>Testing</code></p>
+      <img src="https://img.shields.io/badge/STATUS-PRODUCT%20CONCEPT-purple?style=flat-square"/>
+      <p>A visual WhatsApp workflow-builder concept that helps businesses design automated customer conversations without manually coding every interaction.</p>
+      <p><b>Initial use case:</b> Hajj and Umrah travel agency workflows.</p>
     </td>
     <td width="50%" valign="top">
       <h3>🧪 TinyGPT / OriginLM</h3>
-      <strong>LLM learning experiments</strong>
-      <p>Small experiments to understand language-model foundations and explore lightweight, CPU-friendly development.</p>
-      <p><code>Python</code> <code>LLMs</code> <code>Learning</code></p>
+      <img src="https://img.shields.io/badge/STATUS-LEARNING%20EXPERIMENT-green?style=flat-square"/>
+      <p>Experiments exploring how language models work, including small-model development and CPU-friendly learning projects.</p>
+      <p><b>Focus:</b> LLM fundamentals · Model architecture · Training experiments</p>
     </td>
   </tr>
 </table>
 
-### 🌐 More web and application projects
+### 🌐 Web Applications & Platforms
 
-| Project | What it is | Link / status |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏔️ Raah-e-Shumal</h3>
+      <img src="https://img.shields.io/badge/STATUS-DEPLOYED-success?style=flat-square"/>
+      <p>A travel-discovery website focused on exploring extraordinary destinations in northern Pakistan.</p>
+      <a href="https://raah-e-shumal-cinematic.vercel.app/">🌐 Visit Website</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 FSA Website</h3>
+      <img src="https://img.shields.io/badge/STATUS-DEMO%20DEPLOYED-success?style=flat-square"/>
+      <p>An educational website project involving website design, application development, and deployment.</p>
+      <a href="https://agent-6ae0c6ccc343c08430a4fb1--fancy-dusk-645a8c.netlify.app/">🌐 View Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📘 Life OS</h3>
+      <img src="https://img.shields.io/badge/TYPE-PROJECT-blue?style=flat-square"/>
+      <p>A personal productivity and life-management software project.</p>
+      <a href="https://github.com/MrAssasainM/Life-Os">📂 View Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎯 Life OS — Build Your Future</h3>
+      <img src="https://img.shields.io/badge/TYPE-PROJECT-blue?style=flat-square"/>
+      <p>A related project exploring personal development, future planning, and goal management.</p>
+      <a href="https://github.com/MrAssasainM/Life-Os-Build-Your-Future">📂 View Repository</a>
+    </td>
+  </tr>
+</table>
+
+### 🖥️ Desktop Software & Other Projects
+
+| Project | Description | Status |
 |---|---|---|
-| **Life OS** | Personal productivity and life-management project | [GitHub repository](https://github.com/MrAssasainM/Life-Os) |
-| **Life OS — Build Your Future** | Related personal-growth and planning project | [GitHub repository](https://github.com/MrAssasainM/Life-Os-Build-Your-Future) |
-| **Developer Portfolio** | My portfolio website project | [GitHub repository](https://github.com/MrAssasainM/muhammad-yousaf-portfolio) |
-| **FSA Website** | Educational website project | [Demo](https://agent-6ae0c6ccc343c08430a4fb1--fancy-dusk-645a8c.netlify.app/) |
-| **FCA Website** | Website project | In my project archive; no public demo listed here |
+| **AI Hajj Umrah Rate Manager** | Windows desktop software for Hajj and Umrah rate-management workflows. A previous test report recorded 495/495 passing tests. | Built and tested |
+| **Tutor Agent** | An AI tutoring assistant concept for helping learners understand educational topics. | Concept |
+| **Ultron Desktop AI Assistant** | A Windows desktop AI assistant concept. | Concept |
+| **AI OS App** | An exploration of an AI-centered software environment. | Concept |
+| **Project HQ** | A project organization and management application concept. | Concept |
+| **Android Control App** | An Android companion application concept for PC interaction. | Concept |
+| **FCA Website** | An additional website project. | Project |
 
-### 💡 Other concepts and experiments
+<details>
+  <summary><b>📦 More about my project explorations</b></summary>
 
-- **Tutor Agent** — an AI learning assistant concept.
-- **Ultron Desktop AI Assistant** — a Windows desktop assistant concept.
-- **AI OS App** — an exploration of an AI-centered software workspace.
-- **Project HQ** — a project organization and management concept.
-- **Android Control App** — an Android companion concept for PC interaction.
-- **Sheikh Banuri Muhammad travel workflows** — business research and workflow exploration connected to the Chat Flow concept; not presented as a deployed client system.
+  - **Sheikh Banuri Muhammad Hajj & Umrah workflows:** Business workflow research connected to Chat Flow.
+  - **AI automation:** Exploring ways to connect AI models, APIs, and application workflows.
+  - **Local AI experiments:** Learning to run and understand smaller models on limited hardware.
+
+  These entries include concepts and experiments, not claims that every idea is a finished product.
+
+</details>
 
 ---
 
-## 🛠️ Technologies and tools
+## 🛠️ Technologies & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,express,sqlite,git,github,vscode,vercel&perline=9" alt="Technology icons: Python, JavaScript, Node.js, Express, SQLite, Git, GitHub, VS Code, Vercel" />
+### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
+### Backend & Data
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+</p>
+
+### AI & Automation
+
+<p>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-6D28D9?style=for-the-badge" alt="AI Agents"/>
+  <img src="https://img.shields.io/badge/LLMs-0891B2?style=for-the-badge" alt="LLMs"/>
+</p>
+
+### Developer Tools & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/APIs-2563EB?style=for-the-badge" alt="APIs"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Ollama-Local%20LLM%20experimentation-111827?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
-  <img src="https://img.shields.io/badge/n8n-Workflow%20automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/REST%20APIs-Integration-0ea5e9?style=for-the-badge" alt="REST APIs" />
+  <i>These technologies represent tools I use or actively explore. I'm continuously improving my skills.</i>
 </p>
 
-*These represent technologies I use, explore, or am learning—not a claim of expert-level proficiency in every tool.*
+---
 
-## 🧭 Current learning path
+## 📊 GitHub Statistics
 
-- **AI foundations:** understand LLM behavior, inference, prompting, and model limitations.
-- **Agent engineering:** tools, orchestration, memory, routing, and human approval.
-- **Software engineering:** Python, JavaScript, APIs, databases, testing, and maintainable structure.
-- **Local-first development:** build useful AI workflows that can run within modest hardware limits, with optional cloud services only when appropriate.
+<p align="center">
+  <img height="175" src="https://github-stats-extended.vercel.app/api?username=MrAssasainM&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+  <img height="175" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MrAssasainM&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
+</p>
 
-## 📊 GitHub dashboard
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrAssasainM&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+</p>
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MrAssasainM&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub account statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAssasainM&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&exclude_repo=register" alt="Most used languages in selected repositories" />
-</div>
+---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=MrAssasainM&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</div>
+## 🧭 My Development Philosophy
 
-<div align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=MrAssasainM&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
-</div>
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <h2>💡</h2>
+      <b>Think</b>
+      <p>Understand the problem before building.</p>
+    </td>
+    <td align="center" width="25%">
+      <h2>⚙️</h2>
+      <b>Build</b>
+      <p>Turn ideas into working software.</p>
+    </td>
+    <td align="center" width="25%">
+      <h2>🧪</h2>
+      <b>Test</b>
+      <p>Verify behavior instead of guessing.</p>
+    </td>
+    <td align="center" width="25%">
+      <h2>🚀</h2>
+      <b>Improve</b>
+      <p>Learn from failures and iterate.</p>
+    </td>
+  </tr>
+</table>
 
-<sub>Stats and language cards are generated by third-party services and may occasionally be unavailable or delayed. Language percentages describe code in repositories, not a measurement of skill. Public repository activity is not the whole picture.</sub>
+> "The goal isn't just to write code. It's to build something that actually works and solves a real problem."
 
-## 🐍 Contribution animation
+---
 
-This animation is generated by the GitHub Actions workflow included in this repository. After the workflow runs successfully for the first time, the image below will appear and update on its schedule.
+## 🌱 Currently Learning
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrAssasainM/MrAssasainM/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrAssasainM/MrAssasainM/output/github-contribution-grid-snake.svg" />
-  <img alt="Animated snake moving across the GitHub contribution graph" src="https://raw.githubusercontent.com/MrAssasainM/MrAssasainM/output/github-contribution-grid-snake.svg" />
-</picture>
-
-## 🧩 How I like to build
-
-1. **Start with the problem.** Define who needs the project and what outcome matters.
-2. **Design a small first version.** Avoid building a huge system before validating the basics.
-3. **Build in testable pieces.** Keep features understandable and easier to debug.
-4. **Verify the result.** Use tests, diagnostics, and real usage—not assumptions.
-5. **Document honestly.** Explain what works, what is experimental, and what remains to be done.
+- Artificial intelligence and AI engineering.
+- Large language model architecture and fundamentals.
+- Multi-agent systems and tool orchestration.
+- Local-first AI application development.
+- Backend architecture, APIs, and databases.
+- Software testing, reliability, and security.
 
 ## 🤝 Collaboration
 
-I'm interested in learning alongside other developers and exploring practical projects involving AI, automation, and software engineering.
+I'm interested in connecting with developers, AI enthusiasts, and builders who enjoy experimenting, learning, and creating useful software.
+
+Have an interesting project or idea? Let's connect!
 
 <p align="center">
-  <a href="https://github.com/MrAssasainM"><img src="https://img.shields.io/badge/Follow%20my%20work-GitHub-181717?style=for-the-badge&logo=github" alt="Follow my work on GitHub" /></a>
+  <a href="https://github.com/MrAssasainM">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+  </a>
 </p>
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1d4ed8,100:111827&height=120&section=footer&animation=twinkling" alt="Animated footer wave" />
-  <sub>Build useful things. Stay curious. Keep improving.</sub>
-</div>
+---
+
+<!-- =============== ANIMATED FOOTER =============== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:312e81,100:0f172a&height=120&section=footer&animation=twinkling" width="100%" alt="Animated footer"/>
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my GitHub profile!</b>
+  <br/>
+  <i>Stay curious. Keep building. Make technology useful. ✨</i>
+</p>
